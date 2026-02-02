@@ -52,11 +52,11 @@ export const projects = [
     title: "Saas Landing Page",
     shortDescription:
       "A scalable SaaS dashboard with AI-powered analytics.",
-    image: "/modernpage/landing-cover.png",
+    image: "/modernpage/landing-cover.PNG",
     images: [
-      "/modernpage/landing-1.png",
-      "/modernpage/landing-2.png",
-      "/modernpage/landing-main.png",
+      "/modernpage/landing-1.PNG",
+      "/modernpage/landing-2.PNG",
+      "/modernpage/landing-main.PNG",
     ],
     tech: ["Next.js. ", "TypeScript. ",  "PostgreSQL"],
     problem:
@@ -76,11 +76,11 @@ export const projects = [
     title: "ArenaOne",
     shortDescription:
       "A scalable modern website with booking system",
-    image: "/arenaone/arena-main.png",
+    image: "/arenaone/Arena-main.PNG",
     images: [
-      "/arenaone/arena-1.png",
-      "/arenaone/arena-2.png",
-      "/arenaone/arena-3.png",
+      "/arenaone/arena-1.PNG",
+      "/arenaone/arena-2.PNG",
+      "/arenaone/arena-3.PNG",
     ],
     tech: ["Next.js. ", "TypeScript. "],
     problem:
@@ -100,11 +100,11 @@ export const projects = [
     title: "TherapyConnect",
     shortDescription:
       "A modern high value website that converts visitors into clients for therapists and counselors.",
-    image: "/Ivyon/ivyon-main.png",
+    image: "/Ivyon/ivyon-main.PNG",
     images: [
-      "/Ivyon/ivyon-1.png",
-      "/Ivyon/ivyon-2.png",
-      "/Ivyon/ivyon-3.png",
+      "/Ivyon/ivyon-1.PNG",
+      "/Ivyon/ivyon-2.PNG",
+      "/Ivyon/ivyon-3.PNG",
     ],
     tech: ["Next.js. ", "TypeScript. ",  "PostgreSQL"],
     problem:
