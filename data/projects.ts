@@ -4,10 +4,10 @@ export const projects = [
     title: "InvoiceFlow",
     shortDescription:
       "A scalable SaaS dashboard with AI-powered analytics.",
-    image: "/Invoiceflow/invoice-main.png",
+    image: "/Invoiceflow/invoice-main.PNG",
     images: [
-      "/Invoiceflow/invoice-main.png",
-      "/Invoiceflow/invoiceflow-2.png",
+      "/Invoiceflow/invoice-main.PNG",
+      "/Invoiceflow/invoiceflow-2.PNG",
       "/Invoiceflow/InvoiceFlow-1.jpeg",
     ],
     tech: ["Next.js", "TypeScript", "Tailwind", "OpenAI", "PostgreSQL"],
