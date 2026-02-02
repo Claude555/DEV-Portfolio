@@ -76,11 +76,11 @@ export const projects = [
     title: "ArenaOne",
     shortDescription:
       "A scalable modern website with booking system",
-    image: "/arenaone/Arena-main.PNG",
+    image: "/ArenaOne/Arena-main.PNG",
     images: [
-      "/arenaone/arena-1.PNG",
-      "/arenaone/arena-2.PNG",
-      "/arenaone/arena-3.PNG",
+      "/ArenaOne/arena-1.PNG",
+      "/ArenaOne/arena-2.PNG",
+      "/ArenaOne/arena-3.PNG",
     ],
     tech: ["Next.js. ", "TypeScript. "],
     problem:
