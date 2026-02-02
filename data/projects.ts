@@ -4,7 +4,7 @@ export const projects = [
     title: "InvoiceFlow",
     shortDescription:
       "A scalable SaaS dashboard with AI-powered analytics.",
-    image: "/Invoiceflow/Invoice-main.png",
+    image: "/Invoiceflow/invoice-main.png",
     images: [
       "/Invoiceflow/invoice-main.png",
       "/Invoiceflow/invoiceflow-2.png",
@@ -28,11 +28,11 @@ export const projects = [
     title: "PlateMate",
     shortDescription:
       "A modern restaurant/cafe menu and ordering system with all the bells and whistles! This includes online ordering, cart management, customization options, and a sleek design.",
-    image: "/Restaurant/bella-main.png",
+    image: "/Restaurant/bella-main.PNG",
     images: [
-      "/Restaurant/bella-1.png",
-      "/Restaurant/bella-2.png",
-      "/Restaurant/bella-3.png",
+      "/Restaurant/bella-1.PNG",
+      "/Restaurant/bella-2.PNG",
+      "/Restaurant/bella-3.PNG",
     ],
     tech: ["Next.js", "TypeScript", "Tailwind"],
     problem:
