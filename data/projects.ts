@@ -96,6 +96,30 @@ export const projects = [
     live: "https://arena-one-black.vercel.app",
   },
   {
+    slug: "Sneakr-Ecommerce",
+    title: "Sneakr-Ecommerce",
+    shortDescription:
+      "A scalable modern website with booking system",
+    image: "/Sneakr/sneakr-main.PNG",
+    images: [
+      "/Sneakr/sneakr-1.PNG",
+      "/Sneakr/sneakr-2.PNG",
+      "/Sneakr/sneakr-3.PNG",
+    ],
+    tech: ["Next.js. ", "TypeScript. "],
+    problem:
+      "The client needed a scalable dashboard capable of visualizing large datasets while remaining fast and intuitive.",
+    solution:
+      "I architected a modern Next.js application with optimized data fetching, AI-powered insights, and a clean, responsive UI.",
+    results: [
+      "Reduced load time by 40%",
+      "Improved user engagement",
+      "Scalable architecture for future growth",
+    ],
+    github: "https://github.com/Claude555/Sneakr",
+    live: "https://sneakr-pi.vercel.app/",
+  },
+  {
     slug: "TherapyConnect",
     title: "TherapyConnect",
     shortDescription:
