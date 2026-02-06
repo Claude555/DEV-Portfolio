@@ -124,11 +124,11 @@ export const projects = [
     title: "Bell-Ecommerce",
     shortDescription:
       "A scalable modern website with booking system",
-    image: "/Bell/Bell-main.PNG",
+    image: "/Bell-Ecommerce/Bell-main.PNG",
     images: [
-      "/Bell/Bell-1.PNG",
-      "/Bell/Bell-2.PNG",
-      "/Bell/Bell-3.PNG",
+      "/Bell-Ecommerce/Bell-1.PNG",
+      "/Bell-Ecommerce/Bell-2.PNG",
+      "/Bell-Ecommerce/Bell-3.PNG",
     ],
     tech: ["Next.js. ", "TypeScript.", "Tailwind","Shadcn UI"],
     problem:
