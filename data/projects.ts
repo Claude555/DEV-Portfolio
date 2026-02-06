@@ -119,6 +119,30 @@ export const projects = [
     github: "https://github.com/Claude555/Sneakr",
     live: "https://sneakr-pi.vercel.app/",
   },
+    {
+    slug: "Bell-Ecommerce",
+    title: "Bell-Ecommerce",
+    shortDescription:
+      "A scalable modern website with booking system",
+    image: "/Bell/Bell-main.PNG",
+    images: [
+      "/Bell/Bell-1.PNG",
+      "/Bell/Bell-2.PNG",
+      "/Bell/Bell-3.PNG",
+    ],
+    tech: ["Next.js. ", "TypeScript.", "Tailwind","Shadcn UI"],
+    problem:
+      "The client needed a scalable dashboard capable of visualizing large datasets while remaining fast and intuitive.",
+    solution:
+      "I architected a modern Next.js application with optimized data fetching, AI-powered insights, and a clean, responsive UI.",
+    results: [
+      "Reduced load time by 40%",
+      "Improved user engagement",
+      "Scalable architecture for future growth",
+    ],
+    github: "https://github.com/Claude555/Bell-Ecommerce",
+    live: "https://bellbell-ecommerce.vercel.app/",
+  },
   {
     slug: "TherapyConnect",
     title: "TherapyConnect",
