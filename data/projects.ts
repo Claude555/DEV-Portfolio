@@ -1,14 +1,38 @@
 export const projects = [
-  {
-    slug: "InvoiceFlow",
-    title: "InvoiceFlow",
+      {
+    slug: "HealthFlow",
+    title: "HealthFlow",
+    shortDescription:
+      "A scalable modern website with booking system",
+    image: "/healthflow/haelth-main.PNG",
+    images: [
+      "/healthflow/health-1.PNG",
+      "/healthflow/health-2.PNG",
+      "/healthflow/health-3.PNG",
+    ],
+    tech: ["Next.js. ", "TypeScript.", "Tailwind","Shadcn UI"],
+    problem:
+      "The client needed a scalable dashboard capable of visualizing large datasets while remaining fast and intuitive.",
+    solution:
+      "I architected a modern Next.js application with optimized data fetching, AI-powered insights, and a clean, responsive UI.",
+    results: [
+      "Reduced load time by 40%",
+      "Improved user engagement",
+      "Scalable architecture for future growth",
+    ],
+    github: "https://github.com/Claude555/HealthFlow",
+    live: "https://healthflow-six.vercel.app",
+  },
+   {
+    slug: "StockFlow",
+    title: "StockFlow",
     shortDescription:
       "A scalable SaaS dashboard with AI-powered analytics.",
-    image: "/Invoiceflow/invoice-main.PNG",
+    image: "/stockflow/stock-main.PNG",
     images: [
-      "/Invoiceflow/invoice-main.PNG",
-      "/Invoiceflow/invoiceflow-2.PNG",
-      "/Invoiceflow/InvoiceFlow-1.jpeg",
+      "/stockflow/stock-1.PNG",
+      "/stockflow/stock-2.PNG",
+      "/stockflow/stock-3.PNG",
     ],
     tech: ["Next.js", "TypeScript", "Tailwind", "OpenAI", "PostgreSQL"],
     problem:
@@ -20,8 +44,33 @@ export const projects = [
       "Improved user engagement",
       "Scalable architecture for future growth",
     ],
-    github: "https://github.com/Claude555/Invoiceflow",
-    live: "https://invoiceflow-chi.vercel.app",
+    github: "https://github.com/Claude555/StockFlow",
+    live: "https://stockflow-tawny.vercel.app",
+  },
+ 
+      {
+    slug: "Bell-Ecommerce",
+    title: "Bell-Ecommerce",
+    shortDescription:
+      "A scalable modern website with booking system",
+    image: "/Bell-Ecommerce/Bell-main.PNG",
+    images: [
+      "/Bell-Ecommerce/Bell-1.PNG",
+      "/Bell-Ecommerce/Bell-2.PNG",
+      "/Bell-Ecommerce/Bell-3.PNG",
+    ],
+    tech: ["Next.js. ", "TypeScript.", "Tailwind","Shadcn UI"],
+    problem:
+      "The client needed a scalable dashboard capable of visualizing large datasets while remaining fast and intuitive.",
+    solution:
+      "I architected a modern Next.js application with optimized data fetching, AI-powered insights, and a clean, responsive UI.",
+    results: [
+      "Reduced load time by 40%",
+      "Improved user engagement",
+      "Scalable architecture for future growth",
+    ],
+    github: "https://github.com/Claude555/Bell-Ecommerce",
+    live: "https://bellbell-ecommerce.vercel.app/",
   },
   {
     slug: "PlateMate",
@@ -46,6 +95,30 @@ export const projects = [
     ],
     github: "https://github.com/Claude555/restaurant-template",
     live: "https://restaurant-template-chi.vercel.app/menu",
+  },
+   {
+    slug: "InvoiceFlow",
+    title: "InvoiceFlow",
+    shortDescription:
+      "A scalable SaaS dashboard with AI-powered analytics.",
+    image: "/Invoiceflow/invoice-main.PNG",
+    images: [
+      "/Invoiceflow/invoice-main.PNG",
+      "/Invoiceflow/invoiceflow-2.PNG",
+      "/Invoiceflow/InvoiceFlow-1.jpeg",
+    ],
+    tech: ["Next.js", "TypeScript", "Tailwind", "OpenAI", "PostgreSQL"],
+    problem:
+      "The client needed a scalable dashboard capable of visualizing large datasets while remaining fast and intuitive. ",
+    solution:
+      "I architected a modern Next.js application with optimized data fetching, AI-powered insights, and a clean, responsive UI.",
+    results: [
+      "Reduced load time by 40%",
+      "Improved user engagement",
+      "Scalable architecture for future growth",
+    ],
+    github: "https://github.com/Claude555/Invoiceflow",
+    live: "https://invoiceflow-chi.vercel.app",
   },
   {
     slug: "SaasLandingPage",
